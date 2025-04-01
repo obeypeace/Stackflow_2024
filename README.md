@@ -1,7 +1,11 @@
 # Stack Overflow Developer Survey Analysis
 
 ## 1. Installation
-IMportant libraries needed for this project are pandas, numpy, seaborn, and matplotlib.
+Important libraries needed for this project are:
+pandas version: 2.2.2
+numpy version: 1.26.4
+seaborn version: 0.13.2
+matplotlib version: 3.9.2
 
 ## 2. Project Motivation
 
@@ -48,6 +52,10 @@ To reproduce the analysis:
 ### Correlation between Formal Education Level and Coding Experience
 
 * Developers with professional degrees (JD, MD, Ph.D.) have the most coding experience, while those with only primary education have the least.  Higher education levels generally correlate with more coding experience.
+
+## 6. Summary
+A brief description and findings of the project can be found on the medium article link below:
+https://medium.com/@obeypeace1995/title-decoding-the-developer-dna-insights-from-the-stack-overflow-survey-5fba43b6594c
 
 ## 6. Conclusion
 This analysis provides insights into the demographics, work experience, technology preferences, and learning habits of developers.  Key findings highlight the prevalence of remote work, the importance of online learning resources, and the distribution of data-related roles.
